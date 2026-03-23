@@ -14,8 +14,12 @@ Tổng hợp bài tập lập trình C++ trên hệ thống PTIT.
 | D01006 | Tổ hợp | Liệt kê các số khác nhau có K chữ số lấy từ K vị trí khác nhau trong xâu S |
 | D01007 | Tổ hợp | Liệt kê các dãy con K phần tử sắp tăng dần của dãy số theo thứ tự từ điển |
 | D01008 | Tổ hợp | Liệt kê các tổ hợp chẵn chập k của n số nguyên dương đầu tiên theo thứ tự từ điển |
+| D01009 | Xâu tam phân | Liệt kê các xâu tam phân có thứ tự chẵn theo thứ tự từ điển |
+| D01010 | Xâu ABC | Liệt kê xâu độ dài ≤ N gồm A,B,C với số A ≤ số B ≤ số C theo thứ tự từ điển |
+| D01011 | Tổ hợp | Liệt kê tổ hợp chập K của N số nguyên dương đầu tiên theo thứ tự ngược |
 | D01012 | Hoán vị | Liệt kê hoán vị của N số nguyên dương đầu tiên sao cho M luôn đứng cuối |
 | D01013 | Hoán vị | Liệt kê hoán vị của dãy ký tự giữa hai ký tự c1 và c2 theo thứ tự từ điển |
+| D01014 | Tổ hợp lặp | Liệt kê bộ K số không giảm từ N số nguyên dương đầu tiên |
 | D02021 | Sắp xếp | Selection Sort - In từng bước sắp xếp chọn |
 | D02022 | Sắp xếp | Insertion Sort - In từng bước sắp xếp chèn |
 | D02023 | Sắp xếp | Bubble Sort - In từng bước sắp xếp nổi bọt |
