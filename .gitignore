@@ -1,0 +1,22 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# Binary files without extension (compiled C++)
+D01*
+D02*
+!D01*.cpp
+!D02*.cpp
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Debug
+*.dSYM/
