@@ -25,6 +25,14 @@ Tổng hợp bài tập lập trình C++ trên hệ thống PTIT.
 | D01017 | Tổ hợp | Liệt kê các số khác nhau có K chữ số từ K vị trí khác nhau trong xâu S (input order) |
 | D01018 | Xâu nhị phân | Liệt kê xâu nhị phân độ dài N có thứ tự là số Fibonacci |
 | D01019 | Xâu tam phân | Liệt kê các xâu tam phân ABC có thứ tự lẻ theo thứ tự từ điển |
+| D01020 | Tổ hợp | Liệt kê tổ hợp chập K của N tại các vị trí cách nhau K bước |
+| D01021 | Xâu ký tự | Liệt kê các từ khác nhau ghép từ dãy con của N từ theo thứ tự từ điển |
+| D01022 | Xâu ký tự | Liệt kê các từ khác nhau ghép đúng K từ từ dãy con của N từ theo thứ tự từ điển |
+| D01023 | Xâu ký tự | Liệt kê các dãy chữ số khác nhau ghép từ dãy con của N số theo thứ tự từ điển |
+| D01024 | Xâu ký tự | Liệt kê các dãy chữ số khác nhau ghép đúng K số từ dãy con của N số theo thứ tự từ điển |
+| D01025 | Tổ hợp | Liệt kê các số khác nhau có K chữ số từ K vị trí khác nhau trong xâu S (trùng D01017) |
+| D02004 | Đệ quy | Tìm ký tự tại vị trí i trong xâu Fibonacci G(n) = G(n-2) + G(n-1) |
+| D02005 | Tham lam | Đổi tiền với số tờ ít nhất từ các mệnh giá 1,2,5,10,20,50,100,200,500,1000 |
 | D02021 | Sắp xếp | Selection Sort - In từng bước sắp xếp chọn |
 | D02022 | Sắp xếp | Insertion Sort - In từng bước sắp xếp chèn |
 | D02023 | Sắp xếp | Bubble Sort - In từng bước sắp xếp nổi bọt |
