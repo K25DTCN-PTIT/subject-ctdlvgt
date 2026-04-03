@@ -33,6 +33,10 @@ Tổng hợp bài tập lập trình C++ trên hệ thống PTIT.
 | D01025 | Tổ hợp | Liệt kê các số khác nhau có K chữ số từ K vị trí khác nhau trong xâu S (trùng D01017) |
 | D02004 | Đệ quy | Tìm ký tự tại vị trí i trong xâu Fibonacci G(n) = G(n-2) + G(n-1) |
 | D02005 | Tham lam | Đổi tiền với số tờ ít nhất từ các mệnh giá 1,2,5,10,20,50,100,200,500,1000 |
+| D02001 | Sắp xếp | Sắp xếp dãy N số nguyên dương theo thứ tự tăng dần |
+| D02009 | Tham lam | Tính tích lớn nhất của 2 hoặc 3 phần tử trong dãy |
+| D02010 | Quy hoạch động | Đếm số cách leo cầu thang N bậc, mỗi bước đi 1 đến K bậc (mod 10^9+7) |
+| D02011 | Quy hoạch động | Tìm độ dài dãy con tăng dài nhất (LIS) |
 | D02021 | Sắp xếp | Selection Sort - In từng bước sắp xếp chọn |
 | D02022 | Sắp xếp | Insertion Sort - In từng bước sắp xếp chèn |
 | D02023 | Sắp xếp | Bubble Sort - In từng bước sắp xếp nổi bọt |
