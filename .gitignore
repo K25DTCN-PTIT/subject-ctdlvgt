@@ -13,6 +13,9 @@ D02*
 # macOS
 .DS_Store
 
+# Kiro
+.kiro/
+
 # IDE
 .vscode/
 .idea/

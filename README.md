@@ -40,3 +40,17 @@ Tổng hợp bài tập lập trình C++ trên hệ thống PTIT.
 | D02021 | Sắp xếp | Selection Sort - In từng bước sắp xếp chọn |
 | D02022 | Sắp xếp | Insertion Sort - In từng bước sắp xếp chèn |
 | D02023 | Sắp xếp | Bubble Sort - In từng bước sắp xếp nổi bọt |
+| D03001 | Stack | Kiểm tra xâu ngoặc đúng gồm (), [], {} |
+| D03002 | Stack | Tìm dãy ngoặc đúng dài nhất trong xâu chỉ gồm '(' và ')' |
+| D03003 | Stack | Kiểm tra biểu thức có dư thừa cặp ngoặc () hay không |
+| D02013 | Quy hoạch động | Tìm độ dài dãy con lặp lại dài nhất (Longest Repeating Subsequence) |
+| D02014 | Quy hoạch động | Tìm độ dài dãy con chung dài nhất (LCS) của 2 xâu |
+| D02015 | Quy hoạch động | Tìm tổng tài sản lớn nhất khi không lấy 2 nhà kề nhau (House Robber) |
+| D02016 | Quy hoạch động | Tìm số lượng ít nhất các số có tổng bình phương bằng N |
+| D02017 | Quy hoạch động | Tìm dãy vị trí dài nhất với A[] tăng và B[] giảm nghiêm ngặt |
+| D02018 | Quy hoạch động | Tìm số N nhỏ nhất có tổng chữ số = A và tổng bình phương chữ số = B |
+| D02019 | Đệ quy | Tìm phần tử thứ K trong dãy gấp đôi bắt đầu từ [1] sau N-1 bước biến đổi |
+| D02020 | Tham lam | Nối N sợi dây thành 1 sợi với tổng chi phí nhỏ nhất (Huffman-style) |
+| D03004 | Stack | Đếm số ngoặc cần đổi chiều ít nhất để xâu thành dãy ngoặc đúng |
+| D03005 | Stack | Tìm tổng độ dài lớn nhất các biểu thức ngoặc đúng con trong xâu |
+| D03006 | Stack | Mô phỏng text editor với insert, backspace, left, right bằng 2 stack |
